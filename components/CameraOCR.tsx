@@ -1,0 +1,1 @@
+<content for CameraOCR.tsx>
